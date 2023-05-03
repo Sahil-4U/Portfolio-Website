@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(221, 213, 199);
+    margin: 0;
+    padding: 0%;
+    
+}
+center>h1{
+    font-size: 60px;
+    text-transform:uppercase;
+    color:brown;
+}
+center>h1:hover{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 50%;
+    border: 2px solid rgb(75, 238, 211);
+    border-radius: 50px;
+    background-color: yellow;
+    color: rgb(142, 35, 209);
+    transition: 2s ease-in;
+}
+.body-container{
+    margin: 5%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.project-container{
+    width: 20%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: orange;
+}
