@@ -2,7 +2,7 @@ body{
     background-color:rgb(221, 213, 199);
     margin: 0;
     padding: 0%;
-    
+    box-sizing: border-box;
 }
 center>h1{
     font-size: 60px;
@@ -16,7 +16,6 @@ center>h1:hover{
     border-radius: 50px;
     background-color: yellow;
     color: rgb(142, 35, 209);
-    transition: 2s ease-in;
 }
 .body-container{
     margin: 5%;
@@ -24,19 +23,22 @@ center>h1:hover{
     flex-wrap: wrap;
 }
 .project-container{
+    margin-top: 1%;
+    margin-left: 1%;
     width: 20%;
     text-align: center;
     display: flex;
     flex-direction: column;
-    padding: 2%;
+    padding: 1%;
     border: 2px solid green;
     border-radius: 10px;
     background-color: orange;
 }
 
-.btn-2 button{
+.btn-2 button,a{
 width:100px;
 height:50px;
+text-decoration: none;
 border:none;
 border-radius: 5px;
 background-color: #55c2da;
@@ -46,16 +48,17 @@ font-size: 16px;
 padding: 2px;
 }
 
-.project-explanation p{
-font-family: 'Times New Roman', Times, serif;
-font-weight: 600;
-font-size: 18px;
 
+.project-explanation p{
+font-family: cursive;
+font-weight: 600;
+font-size: 1.2em;
+color:white;
 }
 
 .project-Name h2{
 font-family: sans-serif;
 font-weight: 700;
-font-size: 30px;
+font-size: 1.5em;
 color:blueviolet;
 }

@@ -28,7 +28,7 @@ function createProject(data){
              </div>
              <div class="btn-2">
                <button><a href='${d.Live_link}' target=_blank>Live show</a></button>
-               <button><a href='${d.github_link}'>Github link</a></button>
+               <button><a href='${d.github_link}' target=_blank>Github link</a></button>
              </div>
            </div>
         `

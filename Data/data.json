@@ -1,17 +1,60 @@
 [
     {
-        "id":1,
-        "heading":"Quiz App",
-        "text":"project description",
-        "Live_link":"https://sahil-4u.github.io/QuizApp/",
-        "github_link":"https://github.com/Sahil-4U/QuizApp.git"
+        "id": 1,
+        "heading": "Quiz App",
+        "text": "The project: “Quiz Application” is a collection of number of different types of questions on frontend textstack like html,css and JavaScript.A user can take the quiz and check his preperation for MCQ.At last you can get your score",
+        "Live_link": "https://sahil-4u.github.io/QuizApp/",
+        "github_link": "https://github.com/Sahil-4U/QuizApp.git"
     },
     {
-        "id":1,
-        "heading":"Quiz App",
-        "text":"project description",
-        "Live_link":"https://sahil-4u.github.io/QuizApp/",
-        "github_link":"https://github.com/Sahil-4U/QuizApp.git"
+        "id": 2,
+        "heading": "Random Color Generator App",
+        "text": "This project generate '35' different  Hexa-decimal color code at every render.So if you want a beautiful color code you can check this project.",
+        "Live_link": "https://sahil-4u.github.io/RandomColors/",
+        "github_link": "https://github.com/Sahil-4U/RandomColors.git"
+    },
+    {
+        "id": 3,
+        "heading": "Job Portal",
+        "text": "This is an online job portal, built using ReactJS and Firebase.In this project Hr post jobs as their requirements and whose candidate have relevant skills they can apply for these jobs if the Hr select a candidate then I have implement a conversation module here",
+        "Live_link": "https://job-portal-res.netlify.app/",
+        "github_link": "https://github.com/Sahil-4U/job-portal-responsive.git"
+    },
+    {
+        "id": 4,
+        "heading": "Student Management System",
+        "text": "This project hold Records of Students with their name ,email , and their image and you can filter the students with name , email and sort the students record alphabetically and numerical also.In this project I fetch the data with an api and show data here",
+        "Live_link": "https://sahil-4u.github.io/Student-portal/",
+        "github_link": "https://github.com/Sahil-4U/Student-portal.git"
+    },
+    {
+        "id": 4,
+        "heading": "Button Ripple Effect",
+        "text": "This project show beautiful animation effect on a button and I have made this project with html,css and javaScript Only",
+        "Live_link": "https://sahil-4u.github.io/Button-Ripple-Effect/",
+        "github_link": "https://github.com/Sahil-4U/Button-Ripple-Effect.git"
+    },
+    {
+        "id": 5,
+        "heading": "Digital Clock",
+        "text": "This project shows a beautiful digital clock and I have made this with html, css and JavaScript Only",
+        "Live_link": "https://sahil-4u.github.io/Digital-Clock/",
+        "github_link": "https://github.com/Sahil-4U/Digital-Clock.git"
+    },
+    {
+        "id": 6,
+        "heading": "Registeration Form with Validations",
+        "text": "In this project I have massively used JavaScript to put validation across every field to understand deep concepts of JavaScript.I hope you like this ",
+        "Live_link": "https://sahil-4u.github.io/Registeration-Form-with-validations-/",
+        "github_link": "https://github.com/Sahil-4U/Registeration-Form-with-validations-.git"
+    },
+    {
+        "id": 6,
+        "heading": "Cards Animations",
+        "text": "In this project I have create beautifull card animations.So if you want to see a magic like cards you can check this project. I have made this project with html , css and JavaScript Only ",
+        "Live_link": "https://sahil-4u.github.io/Cards/",
+        "github_link": "https://github.com/Sahil-4U/Cards.git"
     }
+
 
 ]
