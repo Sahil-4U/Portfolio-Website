@@ -1,3 +1,11 @@
+@keyframes color {
+  0%   { background: #85b8b8; }
+  20%  { background: #68a6ad; }
+  40%  { background: #7a74a1; }
+  60%  { background: rgba(117, 234, 236, 0.765); }
+  80%  { background: #6c74b2; }
+  100% { background: #a06da4; }
+}
 * {
   margin: 0%;
   padding: 0%;
@@ -5,6 +13,9 @@
 
 body {
   width: 100vw;
+  background: #33CCCC; 
+  animation: color 9s infinite linear; 
+  
 }
 
 nav {
@@ -72,7 +83,7 @@ nav {
   font-family: 'Courier New', Courier, monospace;
 }
 .information>h1:hover{
-  color: rgba(65, 231, 90, 0.952);
+  color:whitesmoke;
 }
 
 .information>p{
