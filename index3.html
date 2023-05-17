@@ -8,16 +8,19 @@
     <link rel="stylesheet" href="style3.css">
 </head>
 <body>
-    <div class="fom">
+    <!-- <h3>Contact Form</h3> -->
+    <form action="https://formsubmit.co/a1ca8275f7bf198a862642fb38d05d6c" method="POST">
+    
            <div class="email">
             <label for="email">E-Mail</label>
-            <input type="email" name="" id=""  placeholder="Enter your e-mail">
+            <input type="email" name="email" id=""  placeholder="Enter your e-mail" required>
            </div>
            <div class="text-box">
-            <label for="email">Message</label>
-            <textarea rows="8" cols="49" placeholder="Enter your message"></textarea>
+            <label for="message">Message</label>
+            <textarea rows="8" cols="49" placeholder="Enter your message" required name="message"></textarea>
            </div>
-       <button>Send </button>
-    </div>
+       <button type="submit">Send </button>
+    
+</form>
 </body>
 </html>
