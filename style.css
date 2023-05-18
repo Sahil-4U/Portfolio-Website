@@ -123,6 +123,13 @@ nav {
     font-size: 1rem;
   }
  
+.ancher>li>a:hover{
+    background-color:rgba(98, 205, 197, 0.591);
+    border:1px solid rgba(98, 205, 197, 0.591);
+    font-size: 1rem;
+    border-radius: 5%;
+    color: orangered;
+}
   .img>img{
     width:15rem;
     height:14rem;
