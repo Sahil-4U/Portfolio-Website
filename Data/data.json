@@ -7,6 +7,13 @@
         "github_link": "https://github.com/Sahil-4U/firstNodejsProject.git"
     },
     {
+        "id": 2,
+        "heading": "Movies app",
+        "text": "This project is completely based on reactJS and react-bootstrap , In this project i have used a api to fetch images and other details of movies and on the next page user fill the details and movie name and movie summary already exist there and when user clicks submit user details saved in the local storage",
+        "Live_link": "https://m-oviesapp.netlify.app",
+        "github_link": "https://github.com/Sahil-4U/Quad-Betch.git"
+    },
+    {
         "id": 1,
         "heading": "Quiz App",
         "text": "The project: “Quiz Application” is a collection of number of different types of questions on frontend textstack like html,css and JavaScript.A user can take the quiz and check his preperation for MCQ.At last you can get your score",
